@@ -95,9 +95,7 @@
 					"showMarker": true,
 					"markerShape": "triangle",
 					"markerSize": 3,
-					"markerColor": { "solid": { "color": "#448822"}},
-					"lineStyle" : "dashed",
-					"stepped" : true
+					"markerColor": { "solid": { "color": "#448822"}}
 				}],
 				"plotArea": [{
 					"transparency": 20
